@@ -8,27 +8,27 @@
     ├─[题目编号1]题目名1
     │      main.cpp(主要答案文件)
     │      main.exe(编译文件)
-    │      题干.png(题目文件)
+    │      题干.png/pdf(题目文件)
     │
     ├─[...]...
     │      main.cpp
     │      main.exe
-    │      题干.png
+    │      题干.png/pdf
     │
     └─[题目编号n]题目名n
             main.cpp
             main.exe
-            题干.png
+            题干.png/pdf
 ...OJ(某某OJ平台2)
     ├─[...]...
     │      main.cpp
     │      main.exe
-    │      题干.png
+    │      题干.png/pdf
     │
     └─[题目编号n]题目名n
             main.cpp
             main.exe
-            题干.png
+            题干.png/pdf
 
 ```
 
