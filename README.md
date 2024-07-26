@@ -46,5 +46,5 @@
 
 土豆编程OJ:https://oj.tudoubiancheng.top
 
-
+洛谷:[首页 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/)
 
