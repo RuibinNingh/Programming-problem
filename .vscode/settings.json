@@ -1,0 +1,7 @@
+{
+    "Codegeex.GenerationPreference": "line by line",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
